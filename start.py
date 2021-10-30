@@ -1,4 +1,4 @@
-from os import system # chala ja bhosdike madarchod
-system ("git clone https://GitHub.com/ULTRA-OP/ULTRA-X && cd ULTRA-X && python3 -m ULTRA")
+from os import system # Aaja Bhai
+system ("git clone https://GitHub.com/Meow-Userbot/meow_ub && cd meow_ub && python3 -m userbot")
 # try af
 print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @UltraXchaT")
