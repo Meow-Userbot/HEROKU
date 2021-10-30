@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
+  "repository": "https://github.com/Meow-Userbot/meow_ub",
+  "website": "https://github.com/Meow-Userbot/meow_ub",
   "success_url": "https://t.me/ULTRAXCHAT",
   "env": {
     "ENV": {
